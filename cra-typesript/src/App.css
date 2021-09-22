@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.musics{
+  list-style: none;
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 50px;
+  box-shadow: 5px 5px 20px;
+  background-color: rgb(207, 204, 204);
+  font-size:large;
+  font-weight: 500;
+  
+}
